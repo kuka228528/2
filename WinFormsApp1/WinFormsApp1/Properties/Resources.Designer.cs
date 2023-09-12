@@ -73,6 +73,17 @@ namespace WinFormsApp1.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap messi_futbol_silno_izmenilsya_sejchas_trudno_uvidet_igroka_kotoryj_neordinaren_16684651132004789218 {
+            get {
+                object obj = ResourceManager.GetObject("messi-futbol-silno-izmenilsya-sejchas-trudno-uvidet-igroka-kotoryj-neordinaren_16" +
+                        "684651132004789218", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap orig_469333 {
             get {
                 object obj = ResourceManager.GetObject("orig_469333", resourceCulture);
